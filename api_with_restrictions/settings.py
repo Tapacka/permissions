@@ -99,7 +99,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_classified_ads',
         "USER": 'postgres',
-        'PASSWORD': 'postgres',
+        'PASSWORD': '42104tr',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
